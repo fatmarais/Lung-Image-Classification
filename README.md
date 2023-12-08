@@ -1,4 +1,4 @@
-#Lung Image Classification using Convolutional Neural Networks (CNN)
+# Lung Image Classification using Convolutional Neural Networks (CNN)
 
 This project aims to develop a machine learning model for the classification of lung images into three distinct categories: COVID, NORMAL, and PNEUMONIA. The dataset contains 1626 COVID images, 1802 NORMAL images, and 1800 PNEUMONIA images. 
 
